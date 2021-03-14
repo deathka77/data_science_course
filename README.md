@@ -15,8 +15,8 @@ The course will use the following packages.
 - seaborn version: 0.11.0
 - seaborn version: 0.11.0
 - scikit-learn version: 0.23.2
-- 
-nltk version: 3.5
+- nltk version: 3.5
 
 I would recommend that these packages are installed using Anaconda www.anaconda.com/products/individual.
 
+For any question please contact me: gbelteki@aol.com
